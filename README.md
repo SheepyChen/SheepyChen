@@ -1,12 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Flora Chen <br><br></h1>
 
-- 🔭 i'm looking for a frontend developer job opportunity
- 
-- 🌱 I’m currently learning **frontend skills**
+- 👩‍💻 I'm looking for a frontend developer job opportunity
 
+- 💻 I’m currently working on [chat-blog](https://github.com/SheepyChen/chat-blog) to practice TypeScript and Nextjs
+
+- 🌱 I've finished some side-projects recently:
+     1. [記帳網頁](https://github.com/SheepyChen/need-day-remember)
+     2. [資料圖表dashboard](https://github.com/SheepyChen/f2e-dashboard-practice)
+      
 - 📝 I regularly write articles and notes on [hackmd](https://hackmd.io/@flora8411) and [medium](https://medium.com/@sheepyrose)
 
-- 📫 How to reach me **flora8411@gmail.com**
+- 📫 Contact me : **flora8411@gmail.com**
 
 - 📓 [Resume](https://www.canva.com/design/DAFeckZPN94/EW1YyQDeTDsb9avXCnFu8A/edit?utm_content=DAFeckZPN94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
