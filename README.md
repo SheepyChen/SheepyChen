@@ -8,12 +8,12 @@
      1. [記帳網頁](https://github.com/SheepyChen/need-day-remember)
      2. [資料圖表dashboard](https://github.com/SheepyChen/f2e-dashboard-practice)
       
-- 📝 I regularly write articles and notes on [hackmd](https://hackmd.io/@flora8411) and [medium](https://medium.com/@sheepyrose)
+- 📝 I regularly write articles and notes on [Hackmd](https://hackmd.io/@flora8411) and [Medium](https://medium.com/@sheepyrose)
 
 - 📫 Contact me : **flora8411@gmail.com**
 
 - 📓 [Resume](https://www.canva.com/design/DAFeckZPN94/EW1YyQDeTDsb9avXCnFu8A/edit?utm_content=DAFeckZPN94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  
+
 <h2 align="center">📓 Todo </h2>  
 
 - [x] Next.js
@@ -78,9 +78,12 @@
 
 ➡️ [more posts...](https://hackmd.io/@flora8411)
 
-
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p align="center">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SheepyChen&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheepyChen&layout=compact&theme=synthwave" />
 </p>
 
+<div  align="center">
+  <img alt="view" src="https://komarev.com/ghpvc/?username=SheepyChen&label=Profile%20views&color=blueviolet&style=plastic" />
+</div>
