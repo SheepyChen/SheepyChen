@@ -2,11 +2,10 @@
 
 - 👩‍💻 I'm looking for a frontend developer job opportunity
 
-- 💻 I’m currently working on [chat-blog](https://github.com/SheepyChen/chat-blog) to practice TypeScript and Nextjs
+- 💻 I’m currently working on [30 Days of LC JavaScript Challenge]([https://github.com/SheepyChen/chat-blog](https://leetcode.com/discuss/study-guide/3458761/Open-to-Registration!-30-Days-of-LC-JavaScript-Challenge?utm_campaign=DailyD1&utm_medium=Email&utm_source=Daily&gio_link_id=qPkbxglR)) to practice JS
 
 - 🌱 I've finished some side-projects recently:
      1. [記帳網頁](https://github.com/SheepyChen/need-day-remember)
-     2. [資料圖表dashboard](https://github.com/SheepyChen/f2e-dashboard-practice)
       
 - 📝 I regularly write articles and notes on [Hackmd](https://hackmd.io/@flora8411) and [Medium](https://medium.com/@sheepyrose)
 
